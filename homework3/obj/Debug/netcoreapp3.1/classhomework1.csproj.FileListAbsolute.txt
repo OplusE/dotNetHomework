@@ -1,0 +1,13 @@
+D:\高尚的快乐\c++作业及练习\classhomework1\bin\Debug\netcoreapp3.1\classhomework1.exe
+D:\高尚的快乐\c++作业及练习\classhomework1\bin\Debug\netcoreapp3.1\classhomework1.deps.json
+D:\高尚的快乐\c++作业及练习\classhomework1\bin\Debug\netcoreapp3.1\classhomework1.runtimeconfig.json
+D:\高尚的快乐\c++作业及练习\classhomework1\bin\Debug\netcoreapp3.1\classhomework1.runtimeconfig.dev.json
+D:\高尚的快乐\c++作业及练习\classhomework1\bin\Debug\netcoreapp3.1\classhomework1.dll
+D:\高尚的快乐\c++作业及练习\classhomework1\bin\Debug\netcoreapp3.1\classhomework1.pdb
+D:\高尚的快乐\c++作业及练习\classhomework1\obj\Debug\netcoreapp3.1\classhomework1.csprojAssemblyReference.cache
+D:\高尚的快乐\c++作业及练习\classhomework1\obj\Debug\netcoreapp3.1\classhomework1.AssemblyInfoInputs.cache
+D:\高尚的快乐\c++作业及练习\classhomework1\obj\Debug\netcoreapp3.1\classhomework1.AssemblyInfo.cs
+D:\高尚的快乐\c++作业及练习\classhomework1\obj\Debug\netcoreapp3.1\classhomework1.csproj.CoreCompileInputs.cache
+D:\高尚的快乐\c++作业及练习\classhomework1\obj\Debug\netcoreapp3.1\classhomework1.dll
+D:\高尚的快乐\c++作业及练习\classhomework1\obj\Debug\netcoreapp3.1\classhomework1.pdb
+D:\高尚的快乐\c++作业及练习\classhomework1\obj\Debug\netcoreapp3.1\classhomework1.genruntimeconfig.cache
