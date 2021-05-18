@@ -1,0 +1,13 @@
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\obj\Debug\netcoreapp3.1\ConsoleHomework2.csprojAssemblyReference.cache
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\obj\Debug\netcoreapp3.1\ConsoleHomework2.AssemblyInfoInputs.cache
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\obj\Debug\netcoreapp3.1\ConsoleHomework2.AssemblyInfo.cs
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\obj\Debug\netcoreapp3.1\ConsoleHomework2.csproj.CoreCompileInputs.cache
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\bin\Debug\netcoreapp3.1\ConsoleHomework2.exe
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\bin\Debug\netcoreapp3.1\ConsoleHomework2.deps.json
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\bin\Debug\netcoreapp3.1\ConsoleHomework2.runtimeconfig.json
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\bin\Debug\netcoreapp3.1\ConsoleHomework2.runtimeconfig.dev.json
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\bin\Debug\netcoreapp3.1\ConsoleHomework2.dll
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\bin\Debug\netcoreapp3.1\ConsoleHomework2.pdb
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\obj\Debug\netcoreapp3.1\ConsoleHomework2.dll
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\obj\Debug\netcoreapp3.1\ConsoleHomework2.pdb
+D:\高尚的快乐\c++作业及练习\ConsoleHomework2\obj\Debug\netcoreapp3.1\ConsoleHomework2.genruntimeconfig.cache
